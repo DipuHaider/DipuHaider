@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipu Haider</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh Bangladesh</h3>
+<h3 align="center">Versatile Full Stack Engineer 🚀 | Building Web Applications with Precision and Care ❤️ | Fluent in JavaScript, PHP, and Beyond 📚 | Crafting Elegant Frontends and Robust Backends 💻 | Mastering the Art of CSS Styling ✨ | Debugging Detective 🕵️‍♂️ | Embracing Agile Development and Collaborative Workflow 🤝 | Continuous Learner and Tech Enthusiast 🌱 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipuhaider&label=Profile%20views&color=0e75b6&style=flat" alt="dipuhaider" /> </p>
 
