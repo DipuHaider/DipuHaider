@@ -1,4 +1,6 @@
-# 💫 About Me:
+# <h1 align="center">Hi 👋, I'm Dipu Haider</h1>
+# <h3 align="center">Versatile Full Stack Developer 🚀 | Building Web Applications with Precision and Care ❤️ | Fluent in JavaScript, PHP, and Beyond 📚 | Crafting Elegant Frontends and Robust Backends 💻 | Mastering the Art of CSS Styling ✨ | Debugging Detective 🕵️‍♂️ | Embracing Agile Development and Collaborative Workflow 🤝 | Continuous Learner and Tech Enthusiast 🌱 </h3>
+
 🔭 I’m currently working on VMS<br><br>🌱 I’m currently learning MERN (Expert)<br><br>👯 I’m looking to collaborate on PVC<br><br>💬 Ask me about JavaScript, PHP<br><br>📫 How to reach me dipuhaider@gmail.com
 
 
