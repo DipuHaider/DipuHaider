@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dipu Haider</h1>
+<h1 align="center">Hi 👋, I'm Md.Fuad Haider Dipu</h1>
 <h3 align="center">Versatile Full Stack Developer 🚀 | Building Web Applications with Precision and Care ❤️ | Fluent in JavaScript, PHP, and Beyond 📚 | Crafting Elegant Frontends and Robust Backends 💻 | Mastering the Art of CSS Styling ✨ | Debugging Detective 🕵️‍♂️ | Embracing Agile Development and Collaborative Workflow 🤝 | Continuous Learner and Tech Enthusiast 🌱 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipuhaider&label=Profile%20views&color=0e75b6&style=flat" alt="dipuhaider" /> </p>
 
-- 🔭 I’m currently working on **VMS**
+- 🔭 I’m currently working on **CAPDS - A Tuition Management System** Full-Stack Development, built with MERN, TypeScript, Prisma, Next UI, and TailWind CSS.
 
-- 🌱 I’m currently learning **MERN (Expert)**
+- 🌱 I’ have recently done **Bashundhara ShuvoShangho - A Community Welfare Platform** link: https://bashundharashuvoshangho.netlify.app Full-Stack Development, built with MERN, TypeScript, Prisma, Next UI, and TailWind CSS.
 
-- 👯 I’m looking to collaborate on **PVC**
+- 👯 I’m looking to collaborate on **CAPDS Admin**
 
-- 💬 Ask me about **JavaScript, PHP**
+- 💬 Ask me about **React, JavaScript, PHP, SDLC, DevOps**
 
 - 📫 How to reach me **dipuhaider@gmail.com**
 
