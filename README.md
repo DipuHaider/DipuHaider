@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CAPDS - A Tuition Management System** Full-Stack Development, built with MERN, TypeScript, Prisma, Next UI, and TailWind CSS.
 
-- 🌱 I’ have recently done **Bashundhara ShuvoShangho - A Community Welfare Platform** link: https://bashundharashuvoshangho.netlify.app Full-Stack Development, built with MERN, TypeScript, Prisma, Next UI, and TailWind CSS.
+- 🌱 I’ have recently done **Bashundhara ShuvoShangho - A Community Welfare Platform** link: https://bashundharashuvoshangho.netlify.app Full-Stack Development, built with MERN, TypeScript, Prisma, Material UI, UploadThing, and TailWind CSS.
 
 - 👯 I’m looking to collaborate on **CAPDS Admin**
 
